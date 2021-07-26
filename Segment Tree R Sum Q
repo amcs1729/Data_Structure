@@ -3,7 +3,6 @@
 Segment Tree with range sum query and point update query
 Not using Lazy Prop
 
-
 */
 
 import java.io.*;
